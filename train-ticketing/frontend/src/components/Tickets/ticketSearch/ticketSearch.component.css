@@ -1,0 +1,15 @@
+.ts-container {
+  padding: 5%;
+  background: linear-gradient(#001529, #00152950);
+  height: 100vh;
+}
+
+.search-card {
+  border-radius: 15px;
+  background: rgba(241, 241, 241, 0.322);
+  border: none;
+}
+
+.search-card-wrapper .search-card-inside {
+  border-radius: 15px;
+}

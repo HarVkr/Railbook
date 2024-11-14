@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.vscode/settings.json
+server/server.rest
+app.yaml
+.gcloudignore
+.local/
+build/

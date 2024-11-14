@@ -1,0 +1,42 @@
+/* .passenger_instance_wrapper{
+  width: 90%;
+  display: flex;
+  margin: auto;
+} */
+
+.passenger_instance_wrapper{
+  /* margin: auto; */
+  width: 100% !important;
+}
+.passenger_instance_wrapper  .ant-space-item{
+  width: 100% !important;
+  text-align: center;
+}
+
+.passenger_instance_wrapper{
+  display: grid;
+  grid-template-columns: 5fr 3fr 4fr 1fr;
+}
+.ant-input-number-input-wrap, .ant-input-number-input, .ant-input-number{
+  width: 90% !important;
+}
+.main-wrapper {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+.train-list-item .ant-alert{
+  padding: 8px 5px;
+}
+.train-list-item .ant-row{
+  margin: 5px 0px;
+}
+
+.ant-descriptions-item-label{
+  font-weight: 600;
+}
+
+.train-desc-wrapper .ant-descriptions-item-content,
+.train-desc-wrapper .ant-descriptions-item-label {
+  padding: 8px;
+}
